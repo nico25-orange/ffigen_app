@@ -2,6 +2,8 @@
 
 A new Flutter FFI plugin project.
 
+1[](assets/images/screenshot.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter
